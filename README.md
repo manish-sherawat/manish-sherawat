@@ -1,47 +1,6 @@
 Manish Sherawat - Web Developer 🌐
 👋 Hi, I’m @manish-sherawat
 
-About Me
-I am a passionate web developer 💻 with a keen interest in creating dynamic and responsive web applications. I love exploring new technologies 🚀 and continuously improving my skills.
-
-Interests
-👀 I’m interested in:
-
-Frontend Development 🎨
-
-Backend Development ⚙️
-
-UI/UX Design 🖌️
-
-Open Source Contributions 🌍
-
-Learning new programming languages and frameworks 📚
-
-Learning
-
-🌱 I’m currently learning:
-
-React.js ⚛️
-
-Node.js 🌟
-
-TypeScript ✨
-
-GraphQL 📊
-
-Collaboration
-
-💞 I’m looking to collaborate on:
-
-Open source projects 🤝
-
-Web development tutorials 📖
-
-Innovative web applications 💡
-
-Any exciting projects that challenge my skills 🏆
-
-Contact
 
 # 💫 About Me:
 Interests 👀 I’m interested in:<br><br>Frontend Development 🎨<br><br>Backend Development ⚙️<br><br>UI/UX Design 🖌️<br><br>Open Source Contributions 🌍<br><br>Learning new programming languages and frameworks 📚<br><br>Learning<br><br>🌱 I’m currently learning:<br><br>React.js ⚛️<br><br>Node.js 🌟<br><br>TypeScript ✨<br><br>GraphQL 📊<br><br>Collaboration<br><br>💞 I’m looking to collaborate on:<br><br>Open source projects 🤝<br><br>Web development tutorials 📖<br><br>Innovative web applications 💡<br><br>Any exciting projects that challenge my skills 🏆
